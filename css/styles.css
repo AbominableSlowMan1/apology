@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster+Two:ital@1&display=swap");
+h1 {
+    font-family: "Lobster Two", cursive;
+}
+
+* {
+    background-color: #7765e3;
+    color: white;
+}
+
+body {
+    background-color: #7765e3;
+    color: white;
+}
+
+header {
+    background-color: #c8adc0;
+}
+
+footer {
+    background-color: #c8adc0;
+}
